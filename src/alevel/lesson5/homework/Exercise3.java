@@ -11,7 +11,7 @@ package alevel.lesson5.homework;
 
 import java.util.Arrays;
 
-public class exercise3 {
+public class Exercise3 {
 
     public static void main(String[] args) {
 
